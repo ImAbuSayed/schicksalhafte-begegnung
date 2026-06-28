@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schicksalhafte-begegnung/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Schicksalhafte Begegnung](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schicksalhafte-begegnung/) |
+| **Get License** | [Request Licensing for Schicksalhafte Begegnung](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schicksalhafte-begegnung/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, wir jagen das Mondlicht im Rover
+> Der Vibe ist so krass, das Game ist für alle andern over
+> Deine Augen wie Diamonds, sie funkeln so hell in der Nacht
+> Hab' an nichts andres als dich und uns beide gedacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
