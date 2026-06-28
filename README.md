@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schicksalhafte-begegnung/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Schicksalhafte Begegnung](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schicksalhafte-begegnung/) |
+| **Get License** | [Commercial Licensing for Schicksalhafte Begegnung](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schicksalhafte-begegnung/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5fa8f6e2072fb1760e107f01ee0f9c3b4a0078a77e38c78de062d17c7206cdd9` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
